@@ -53,7 +53,7 @@ p {
 .name {
     font-size: 0.95rem;
     opacity: 0;
-    transition: opacity 1.2s ease;
+    transition: opacity 1.6s ease;
     font-style: italic;
 }
 
